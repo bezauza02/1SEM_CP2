@@ -1,5 +1,4 @@
 
-
 def calcular_horas_extras(salario, horas):
     return salario * 0.015 * horas
 
