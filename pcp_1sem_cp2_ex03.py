@@ -1,5 +1,4 @@
 
-
 cp1 = float(input("CP1: "))
 cp2 = float(input("CP2: "))
 cp3 = float(input("CP3: "))
