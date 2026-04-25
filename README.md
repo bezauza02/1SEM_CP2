@@ -1,6 +1,6 @@
 # 1SEM_CP2
-Bruno RM:572648  
-Gabriel RM:571735  
-Marcos RM:573857  
-Guilherme RM:571957  
-Bernado RM:568808 
+Bruno Almeida RM:572648  
+Gabriel Góes RM:571735  
+Marcos Peterson RM:573857  
+Guilherme Vinciguerra RM:571957  
+Bernado Zauza RM:568808 
